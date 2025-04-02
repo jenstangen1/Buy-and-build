@@ -1,0 +1,28 @@
+# Excel files (may contain sensitive data)
+*.xlsx
+*.xls
+
+# CSV files (may contain sensitive data)
+*.csv
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db 
